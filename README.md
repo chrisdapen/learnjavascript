@@ -1,2 +1,2 @@
 # learnjavascript
-学习javascript
+学习javascript和nodejs
